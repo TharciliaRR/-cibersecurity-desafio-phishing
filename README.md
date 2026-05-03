@@ -88,7 +88,6 @@ To mitigate phishing attacks:
  ┣ 📜 README.md
  ┣ 📂 images
  ┃ ┗ screenshots.png
- ┗ 📜 notes.md
 ```
 
 ---
@@ -105,10 +104,10 @@ To mitigate phishing attacks:
 ---
 
 ## 👨‍💻 Author
-Your Name Here  
+Tharcilia Rollemberg 
 
-- LinkedIn: https://www.linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
+- LinkedIn: [https://www.linkedin.com/in/tharciliarollemberg/]
+- GitHub: https://github.com/TharciliaRR 
 
 ---
 
