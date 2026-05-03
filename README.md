@@ -33,7 +33,7 @@ Root access: sudo su
 - Attack method: Site Cloner
 - Obtaining the machine address: ifconfig
 - URL to clone: http://www.facebook.com
-- 
+  
 ---
 
 ## 🧠 Methodology
